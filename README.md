@@ -1,1 +1,5 @@
-Welcome to my GitHub profile! I'm a software developer refreshing my skill set after an 8-year hiatus. I'm currently enrolled in a Front End Software Development boot camp offered by Promineotech through Northwest Arkansas Community College and loving it! Upon completion of this 18-week course I will be actively seeking employment. The class wraps up in April 2023.
+
+# Hi! I'm Shari McRae.
+### I'm a passionate and experienced software developer specializing in Java and Front End Development.
+
+Learn more about me on [LinkedIn](https://www.linkedin.com/in/shari-mcrae/).
